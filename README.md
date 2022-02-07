@@ -1,7 +1,10 @@
-# Welcome to the Camunda Community Hub Repository Template!
+<img src="https://img.shields.io/badge/Important-Under%20Construction-green"> ![Community Extension](https://img.shields.io/badge/Community%20Extension-An%20open%20source%20community%20maintained%20project-FF4700) 
 
-## A project to empower our open source community extension maintainers, and encourage new contributors to get started contributing to the Camunda open source ecosystem.
+# Troubleshooting Guide for Camunda Cloud Self-Managed
+The Camunda Developer Relations team works on creating a troubleshooting guide for Camunda Cloud self-managed. The goal of this guide is to enable developers to troubleshoot their problems with Camunda more easily.  
 
-If you are building a new Camunda Community extension, please follow the instructions detailed in our [Community Repository](https://github.com/camunda-community-hub/community). Once those steps had been completed, please feel free to make use of this repository to build your new extension from!
+## Call for Collaboration
+Currently this project is still **under construction**. All community members are invited to collaborate so the Developer Advocates can create the content you desire. 
+Feel free to **open up an issue** for a topic you would like some guidance on. 
 
 
