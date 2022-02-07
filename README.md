@@ -7,4 +7,5 @@ The Camunda Developer Relations team works on creating a troubleshooting guide f
 Currently this project is still **under construction**. All community members are invited to collaborate so the Developer Advocates can create the content you desire. 
 Feel free to **open up an issue** for a topic you would like some guidance on. 
 
+An exemplary issue can be found [here](https://github.com/camunda-community-hub/ccsm-troubleshooting-guide/issues/1). 
 
